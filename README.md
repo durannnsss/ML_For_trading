@@ -1,4 +1,4 @@
-# Quantisti - Machine Learning for Trading
+# Machine Learning for Trading
 
 Bu depo, Quantisti'den alınan "Machine Learning for Trading" eğitimi kapsamında yapılan çalışmaları içermektedir.
 
