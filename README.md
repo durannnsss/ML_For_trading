@@ -10,4 +10,4 @@ Eğitimde kullanılan Jupyter Notebook'lar ve ilgili veri setleri bu depoda bulu
 - **Veri Setleri**: Modellerin eğitilmesi ve test edilmesi için kullanılan veri setleri.
 - **Sunum**: Eğitimin önemli noktalarını özetleyen basit ve sade sunum slaytım.
 
-
+Ayrıca mycode.py ile belirtilen dosya eğitimin sonundaki Capstone Projesidir. ML modellerinin direkt uygulamasını içermektedir. 
